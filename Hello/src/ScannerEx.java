@@ -19,7 +19,7 @@ public class ScannerEx {
 		System.out.print("체중은" + weight +"kg,");
 		
 		boolean single = scanner.nextBoolean();
-		System.out.print("독신여부는" + single +"입니다,");
+		System.out.println("독신여부는" + single +"입니다,");
 		
 		scanner.close();
 	}
