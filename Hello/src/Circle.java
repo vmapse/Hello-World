@@ -1,7 +1,7 @@
 
 public class Circle {
 	private final double PI = 3.14;
-	//int radius;
+	//87int radius;
 	public Circle(int radius) {
 		this.radius = radius;
 	}	
